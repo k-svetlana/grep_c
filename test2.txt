@@ -1,0 +1,3 @@
+second file
+several lines
+end of file
