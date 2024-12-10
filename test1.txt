@@ -1,0 +1,14 @@
+test text
+several lines with spaces
+	and numbers 123
+and empty lines
+
+
+	 and a tab
+				
+v flag: Display non-printing characters so they are visible
+ is 22 16		
+ is 26 1a		
+ is 27 1b		
+123	
+End of file
